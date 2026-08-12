@@ -1,0 +1,1 @@
+This pull request adds a focused contribution workflow and review guidance for the WordPress plugin repository.
