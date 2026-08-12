@@ -1,0 +1,1 @@
+This pull request adds usage, security, release, licensing, and review documentation for the WordPress plugin.
